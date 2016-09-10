@@ -14,7 +14,7 @@ Ben Tristem & Michael Bridges
 ----
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
-*Full video list to follow*
+## CS20-Lighting-In-Blender-Render Updated (11/08/2016)
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount) to find out more about the course, and how we build these assets step-by-step.
