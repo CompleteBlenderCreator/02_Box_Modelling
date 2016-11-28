@@ -14,7 +14,8 @@ Ben Tristem & Michael Bridges
 ----
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
-## BM
+## BM22 Applying Transforms
+
 
 ---
 Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount) to find out more about the course, and how we build these assets step-by-step.
