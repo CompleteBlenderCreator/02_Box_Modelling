@@ -13,7 +13,7 @@ Ben Tristem & Michael Bridges
 
 ----
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
-
+## BM07b Pivot Points
 ## BM15 Different Selection Methods (Edit 30/12/2016)
 ## BM22 Applying Transforms
 ## BM23 Extra Modelling Challenges
