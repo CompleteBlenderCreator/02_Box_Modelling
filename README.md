@@ -155,6 +155,3 @@ beveling, modifiers….
 + Please remember to share in the Discussions.
 + Try making your own boat, house and tree.
 + Start the next section now!
-
----
-Find out more about our [Complete Blender Creator Course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount).
