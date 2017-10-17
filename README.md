@@ -6,6 +6,8 @@
 + Edges: lines between vertices.
 + Faces: closed polygons of edges.
 + By the end you'll be making simple placeholder assets.
++ What's coming up in this section
++ Updated 17/10/2017
 
 ### 3 Your Section 2 Assets
 
