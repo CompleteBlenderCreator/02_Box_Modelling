@@ -101,6 +101,7 @@ Michael asks a quick question for your feedback on keyboard shortcuts.
 + Learn more ways to select your geometry.
 + Border select.
 + Circle select.
++ Updated 25/10/2017
 
 ### 16 The Snapping Tool
 
