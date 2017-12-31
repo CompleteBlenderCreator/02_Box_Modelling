@@ -145,6 +145,7 @@ challenge.
 + Transforms aren’t applied by default.
 + Not applying transforms can impact animation, particles systems, physics,
 bevelling, modifiers….
++ (Updated 31/12/2017) 
 
 ### 23 Extra Modelling Challenges
 
