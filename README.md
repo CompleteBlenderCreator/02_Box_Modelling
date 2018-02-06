@@ -84,6 +84,7 @@ Here Michael shows you how to make a basic wedge shape.
 
 + Learn how to use the Inset Tool.
 + Using the Outset Option.
+(Updated 06/02/2018)
 
 ### 13a Insetting Question for YOU!
 
